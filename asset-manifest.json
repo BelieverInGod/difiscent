@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/difiscent/static/css/main.e9655da6.css",
+    "main.js": "/difiscent/static/js/main.6d83ccf6.js",
+    "static/js/453.9341be95.chunk.js": "/difiscent/static/js/453.9341be95.chunk.js",
+    "static/media/p1.png": "/difiscent/static/media/p1.f243e02ed946899bc7aa.png",
+    "static/media/p2.png": "/difiscent/static/media/p2.f243e02ed946899bc7aa.png",
+    "static/media/p3.png": "/difiscent/static/media/p3.f243e02ed946899bc7aa.png",
+    "static/media/p4.png": "/difiscent/static/media/p4.f243e02ed946899bc7aa.png",
+    "static/media/p5.png": "/difiscent/static/media/p5.f243e02ed946899bc7aa.png",
+    "static/media/p6.png": "/difiscent/static/media/p6.f243e02ed946899bc7aa.png",
+    "static/media/perfume.png": "/difiscent/static/media/perfume.f243e02ed946899bc7aa.png",
+    "index.html": "/difiscent/index.html",
+    "main.e9655da6.css.map": "/difiscent/static/css/main.e9655da6.css.map",
+    "main.6d83ccf6.js.map": "/difiscent/static/js/main.6d83ccf6.js.map",
+    "453.9341be95.chunk.js.map": "/difiscent/static/js/453.9341be95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9655da6.css",
+    "static/js/main.6d83ccf6.js"
+  ]
+}
